@@ -1,6 +1,8 @@
 meteor-lunr
 ===========
 
+[![Join the chat at https://gitter.im/povesteam/meteor-lunr](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/povesteam/meteor-lunr?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [Lunr.js](http://www.lunrjs.com) packaged for meteor
 ----------------------------------------------------
 
